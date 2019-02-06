@@ -1,4 +1,4 @@
-export const json = {
+export const Json = {
     "version": "0.0.1",
     "box_name": "Matchbox Brasil - Ranking",
     "data": [
